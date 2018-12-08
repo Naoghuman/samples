@@ -7,11 +7,12 @@ Description
 ---
 
 This repository contains a collection of HelloFX samples. Each one is a very simple 
-HelloWorld sample created with JavaFX 11 that can be run with different options and build tools.
+HelloWorld sample created with [JavaFX 11] that can be run with different options 
+and build tools.
 
-The related documentation for each sample can be found [here](https://openjfx.io/openjfx-docs/).
+The related documentation for each sample can be found [here].
 
-For more information go to https://openjfx.io.
+For more information go to [https://openjfx.io].
 
 
 
@@ -145,12 +146,25 @@ License<a name="License" />
 TODO
 
 
+
 Contributing<a name="Contributing" />
 ---
 
-This project welcomes all types of contributions and suggestions. 
-We encourage you to report issues, create suggestions and submit 
-[pull requests](https://help.github.com/articles/about-pull-requests/).
+This project welcomes all types of contributions and suggestions. We encourage 
+you to report issues, create suggestions and submit [pull requests].
 
-Please go through the [list of issues](https://github.com/openjfx/samples/issues) 
-to make sure that you are not duplicating an issue.
+Please go through the [list of issues] to make sure that you are not duplicating 
+an issue.
+
+
+
+[//]: # (Images)
+
+
+
+[//]: # (Links)
+[here]:https://openjfx.io/openjfx-docs/
+[https://openjfx.io]:https://openjfx.io
+[JavaFX 11]:https://gluonhq.com/products/javafx/
+[list of issues]:https://github.com/openjfx/samples/issues
+[pull requests]:https://help.github.com/articles/about-pull-requests/
